@@ -1,1 +1,1 @@
-readme file has been update
+readme file has been updated
